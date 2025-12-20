@@ -12,10 +12,10 @@
       "device_limit": 1
     },
     {
-      "username": "vip_user",
-      "password": "vip_password",
+      "username": "Safev",
+      "password": "Safev",
       "expire_date": "2030-01-01",
-      "device_limit": 3
+      "device_limit": 1000
     },
     {
       "username": "testkey",

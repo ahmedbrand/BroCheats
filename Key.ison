@@ -9,7 +9,7 @@
       "username": "user123",
       "password": "pass123",
       "expire_date": "2026-01-01",
-      "device_limit": 1
+      "device_limit": 4
     },
     {
       "username": "SafeV",
